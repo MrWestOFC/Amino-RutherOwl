@@ -66,7 +66,7 @@ O Bot irá está constantemente ativado quando você executar. Ele estará monit
 
 - your_chat (Obrigatório): Isso serve para o Bot identificar o seu chat, onde ele fechará seu chat e remover o sujeito.
 - max_messages (Obrigatório): Isso serve para definir a quantiade máxima de mensagens permitidas dentro do intervalo.
-- interval (Obrigatório): Serve para definir o intervalo das mensagens.
+- interval (Obrigatório): Serve para definir o intervalo das mensagens. Ela é definida em milisegundos
 
 - remove_infrator (Opcional): Define se você quer que remova o atacante quando fechar o chat.
 - rejoin (Opcional): Define se o atacante pode entrar no chat novamente (false: não voltar para o chat)
