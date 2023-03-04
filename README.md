@@ -72,3 +72,17 @@ O Bot irá está constantemente ativado quando você executar. Ele estará monit
 ```
 
 Um dos requisitos que o Bot deve ter é apenas ser anfitrião ou co-adm de seu chat.
+
+### Download - Processo de instalação
+- Processo de Download e uso do Projeto
+
+#### Linux - Termux
+```
+$ git clone https://github.com/MrWestOFC/Amino-RutherOwl/
+$ cd Amino-RutherOwl
+$ pip install -r requirements.txt
+$ python main.py
+```
+
+#### PyDroid
+Para ser utilizado no Pydroid você deve instalar a source do código em <a href="https://github.com/MrWestOFC/Amino-RutherOwl/edit/main/README.md"><strong>Releases</strong></a> e instalar os módulos necessários (Para saber quais são, vá em requirements.txt
