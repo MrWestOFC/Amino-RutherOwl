@@ -86,4 +86,4 @@ $ python main.py
 ```
 
 #### PyDroid
-Para ser utilizado no Pydroid você deve instalar a source do código em <a href="https://github.com/MrWestOFC/Amino-RutherOwl/edit/main/README.md"><strong>Releases</strong></a> e instalar os módulos necessários (Para saber quais são, vá em requirements.txt
+Para ser utilizado no Pydroid você deve instalar a source do código em <a href="https://github.com/MrWestOFC/Amino-RutherOwl/releases/tag/RutherOwl"><strong>Releases</strong></a> e instalar os módulos necessários (Para saber quais são, vá em requirements.txt
