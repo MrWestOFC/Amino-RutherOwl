@@ -70,3 +70,5 @@ O Bot irá está constantemente ativado quando você executar. Ele estará monit
 - remove_infrator (Opcional): Define se você quer que remova o atacante quando fechar o chat.
 - rejoin (Opcional): Define se o atacante pode entrar no chat novamente (false: não voltar para o chat)
 ```
+
+Um dos requisitos que o Bot deve ter é apenas ser anfitrião ou co-adm de seu chat.
