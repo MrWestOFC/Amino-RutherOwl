@@ -11,6 +11,7 @@ Alerta! Esse Projeto está em sua versão Alpha, sendo a primeira versão do Pro
 • Expressividade
 
 - Eu espero que você goste muito do Projeto :)
+-- Entre em contato comigo em caso de bugs!
 ```
 <div align="center">
 
