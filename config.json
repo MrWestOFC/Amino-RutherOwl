@@ -1,0 +1,24 @@
+{
+    "Project": {
+        "name": "RutherOwl - Automatic group protection bot",
+        "author": "MrWest"
+    },
+    "proxy": {
+        "http_and_port": {
+            "http": ""
+        }
+    },
+    "amino": {
+        "account": {
+            "email": "",
+            "passw": ""
+        },
+        "community": {
+            "your_chat": "",
+            "max_messages": 4,
+            "interval": 5000,
+            "remove_infrator": false,
+            "rejoin": false
+        }
+    }
+}
