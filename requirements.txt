@@ -1,4 +1,3 @@
-threading
 termcolor
 datetime
 amino.fix
