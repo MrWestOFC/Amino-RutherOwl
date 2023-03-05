@@ -1,4 +1,4 @@
 threading
 termcolor
 datetime
-aminofix
+amino.fix
