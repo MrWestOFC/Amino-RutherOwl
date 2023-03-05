@@ -72,14 +72,13 @@ try:
                             except aminofix.lib.util.exceptions.ActionNotAllowed:
                                 print(c("Erro", 'yellow'), c("Sem permissão nesse chat", 'green'))
 
+            print(c("Iniciado!", 'green'))
             except aminofix.lib.util.exceptions.UnsupportedService:
                 print(c("Erro!", 'red'), c("Certifique que não esqueceu nenhum parâmetro em 'config.json'", 'green'))
             except aminofix.lib.util.exceptions.InvalidRequest:
                 print(c("Erro!", 'red'), c("Certifique que não faltou nenhuma informação em 'config.json'"))
             except aminofix.lib.util.exceptions.UnexistentData:
                 print(c("Erro!", 'red'), c("Certifique que não há informação errada em 'config.json'"))
-
-            print(c("Iniciado!", 'green'))
         try:
             client.login(email=acc['email'],password=acc['passw'])
             Thread(target=_start_bot()).start()
