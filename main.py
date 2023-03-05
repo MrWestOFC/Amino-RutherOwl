@@ -92,7 +92,7 @@ try:
         except aminofix.lib.util.exceptions.AccountDoesntExist as err:
             print(c("Erro!", 'red'), c("Conta não existe", 'yellow'))
         except aminofix.lib.util.exceptions.InvalidEmail:
-            print(c("Erro!", 'red', c("Email inválido!", 'yellow'))
+            print(c("Erro!"), 'red', c("Email inválido!", 'yellow'))
 
 except FileNotFoundError:
     create_config_file()
