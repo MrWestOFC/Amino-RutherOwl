@@ -28,7 +28,7 @@ No meu projeto anterior, o <a href="https://github.com/MrWestOFC/Amino-Blue-Owl"
 #### Demonstração - 
 <a href="https://youtube.com/shorts/RwjBeelVF8Y?feature=share"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-O Bot irá está constantemente ativado quando você executar. Ele estará monitorando diversas conversas de todos os chats. (Recomendo que crie uma conta que fique somente no seu chat). Assim que uma pessoa começar a floodar o seu chat, o bot automaticamente fechará o mesmo, deixando no "modo visualizar". bPara configurar as sua conta, a proxy e a suas definições você deve ir em 'config.json' para poder fazer suas proprias configurações.
+O Bot irá está constantemente ativado quando você executar. Ele estará monitorando diversas conversas de todos os chats. (Recomendo que crie uma conta que fique somente no seu chat). Assim que uma pessoa começar a floodar o seu chat, o bot automaticamente fechará o mesmo, deixando no "modo visualizar". Para configurar as sua conta, a proxy e a suas definições você deve ir em 'config.json' para poder fazer suas proprias configurações.
 
 ```json
 {
