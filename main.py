@@ -71,8 +71,7 @@ try:
                                     
                             except aminofix.lib.util.exceptions.ActionNotAllowed:
                                 print(c("Erro", 'yellow'), c("Sem permissão nesse chat", 'green'))
-
-            print(c("Iniciado!", 'green'))
+                print(c("Iniciado!", 'green'))
             except aminofix.lib.util.exceptions.UnsupportedService:
                 print(c("Erro!", 'red'), c("Certifique que não esqueceu nenhum parâmetro em 'config.json'", 'green'))
             except aminofix.lib.util.exceptions.InvalidRequest:
